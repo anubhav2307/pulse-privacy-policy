@@ -36,11 +36,11 @@ Pulse uses Google Sign-In exclusively for authentication. We do not receive or s
 
 ## Data Retention and Deletion
 
-Your data is retained for as long as your account is active. If you would like your account and all associated data permanently deleted, please contact us at the email address below, and we will process the deletion within a reasonable timeframe.
+Your data is retained for as long as your account is active. If you would like your account and all associated data permanently deleted, please contact us at the email address below, and we will process the deletion within 7 days.
 
 ## Children's Privacy
 
-Pulse is not directed at children under the age of 13, and we do not knowingly collect personal information from children under 13.
+Pulse is not directed at children under the age of 18, and we do not knowingly collect personal information from children under 18.
 
 ## Changes to This Policy
 
@@ -50,4 +50,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions about this Privacy Policy or your data, please contact:
 
-**anubhavsingh2307@gmail.com**
+**pulse.workout.support@gmail.com**
