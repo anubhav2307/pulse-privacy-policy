@@ -1,6 +1,6 @@
 # Privacy Policy for Pulse
 
-**Last updated: July 23, 2026**
+**Last updated: September 17, 2026**
 
 Pulse ("the app", "we", "us") is a workout tracking application for Android developed by an independent developer. This Privacy Policy explains what information Pulse collects, how it is used, and how it is protected.
 
